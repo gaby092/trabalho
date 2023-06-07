@@ -4,13 +4,13 @@
     background-color: black;
      color: #7900ff;
 }
-
 .h1 {
+    text-align: center;
     width: 100%;
     padding: 31.2px;
 }
 
-.btn {
+.cad {
     padding: 6px 8px;
     width: 50px;
     color: #7900ff;
@@ -22,7 +22,7 @@
     cursor: pointer;
 }
 
-.btn:hover {
+.cad:hover {
     background-color: #3f3f3f;
     transition: background 1s;
 
@@ -44,3 +44,95 @@ nav a:hover {
     color: white;
     background-color: #7900ff;
 }
+
+.pf {
+    width: 20%; height: 50px;
+    color: black;
+    text-align: center;
+    margin: 50px 10px 15px 580px;
+    padding: 5px 5px 10px 10px;
+    display: block;
+}
+#perguntas {
+    display: none;
+  }
+#perguntas:target {
+    margin: 5px 10px 15px 30px;
+    padding: 5px 5px 10px 10px;
+    display: block;
+}
+
+#privacidade {
+    display: none;
+  }
+#privacidade:target {
+    margin: 5px 10px 15px 520px;
+    padding: 5px 5px 10px 10px;
+    display: inline-block;
+}
+
+#denuncia {
+    display: none;
+  }
+#denuncia:target {
+    margin: 5px 10px 15px 1000px;
+    padding: 5px 5px 10px 10px;
+    display: inline-block;
+}
+
+#editar {
+    display: none;
+  }
+#editar:target {
+    margin: 5px 10px 15px 30px;
+    padding: 5px 5px 10px 10px;
+    display: block;
+}
+
+#bloqueio {
+    display: none;
+  }
+#bloqueio:target {
+    margin: 5px 10px 15px 520px;
+    padding: 5px 5px 10px 10px;
+    display: inline-block;
+}
+
+#excluir {
+    display: none;
+  }
+#excluir:target {
+    margin: 5px 10px 15px 1000px;
+    padding: 5px 5px 10px 10px;
+    display: inline-block;
+}
+
+.button {
+    text-align: center;
+    width: 20%; height: 50px;
+    color: #7900ff;
+    width: 400px;
+    margin: 50px 10px 15px 70px;
+    padding: 5px 5px 10px 10px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+.email {
+    width: 20%; height: 50px;
+    color: black;
+    text-align: center;
+    margin: 50px 10px 15px 580px;
+    padding: 5px 5px 10px 10px;
+}
+
+footer { 
+    background-color: black;
+    padding: 10px;
+    }
+footer p {
+    color: #7900ff;
+    text-align: center;
+    }
+ 
+---------------------------------------------------------------------------------------------------------{display: none;}
