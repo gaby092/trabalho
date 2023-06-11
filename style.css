@@ -4,6 +4,17 @@
     background-color: black;
      color: #7900ff;
 }
+
+.topo img {
+    margin-right: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.topo h1 {
+    font-size: 60px;
+}
+
 .h1 {
     text-align: center;
     width: 100%;
@@ -45,6 +56,60 @@ nav a:hover {
     background-color: #7900ff;
 }
 
+
+.imagem-texto img {
+    float: left;
+    margin-right: 10px;
+}
+  
+.btn {
+    padding: 6px 8px;
+    width: 50px;
+    color: #7900ff;
+    background-color: black;
+    border: 1px solid #555;
+    border-radius: 5px ;
+    text-align: right ;
+    user-select: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #3f3f3f;
+    transition: background 1s;
+}
+
+
+body {
+    text-align: center;
+}
+.botao-baixar {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: black;
+    color: #555;
+    font-weight: bold;
+    border-radius: 4px;
+}
+.botao-baixar a {
+    color: #7900ff; 
+    text-decoration: none;
+}
+.texto-baixar {
+    text-align: center;
+    margin-top: 20px;
+}
+.texto-baixar h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #000000;    
+}
+.texto-baixar p {
+    font-size: 18px;
+    color: #000000;    
+    line-height: 1.5;
+}
+---------------------------------------------------{display: none;}
 .pf {
     width: 20%; height: 50px;
     color: black;
