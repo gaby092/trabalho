@@ -57,7 +57,7 @@ nav a:hover {
 }
 
 
-.imagem-texto img {
+.imagem-texto img {    
     float: left;
     margin-right: 10px;
 }
@@ -78,7 +78,6 @@ nav a:hover {
     background-color: #3f3f3f;
     transition: background 1s;
 }
-
 
 body {
     text-align: center;
@@ -109,7 +108,7 @@ body {
     color: #000000;    
     line-height: 1.5;
 }
----------------------------------------------------{display: none;}
+------------------------------------------------suporte----------------------------------------------{display: none;}
 .pf {
     width: 20%; height: 50px;
     color: black;
@@ -191,7 +190,7 @@ body {
     padding: 5px 5px 10px 10px;
 }
 
----------------------------------------------------------------------------------------------------------{display: none;}
+-------------------------------------------------cadastro--------------------------------------------------------{display: none;}
 
 .cadastro {
     background: black;
@@ -286,7 +285,7 @@ section.img .circle {
     clip-path: circle(40% at right 80%);
     z-index: -1;
 }
----------------------------------------------------------------{display: none;}
+------------------------------------------------download------------------------------------------{display: none;}
 
 .download {
     font-family: Arial, sans-serif;
@@ -334,7 +333,6 @@ section.img .circle {
 .btn-voltar:hover {
     background-color: #7900ff;
 }
-
 
 footer { 
     background-color: black;
