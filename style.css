@@ -21,24 +21,6 @@
     padding: 31.2px;
 }
 
-.cad {
-    padding: 6px 8px;
-    width: 50px;
-    color: #7900ff;
-    background-color: black;
-    border: 1px solid #555;
-    border-radius: 5px ;
-    text-align: right ;
-    user-select: none;
-    cursor: pointer;
-}
-
-.cad:hover {
-    background-color: #3f3f3f;
-    transition: background 1s;
-
-    }
-
 nav {
     text-align: center;
     background-color: #7900ff;
